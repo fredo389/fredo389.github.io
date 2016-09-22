@@ -1,0 +1,19 @@
+body {
+    background-color: yellow;
+}
+
+
+p {
+    color: orange;
+    font-family: futura, Helvetica, arial, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    background-color: blue;
+    width:200px;
+    margin: 100px;
+    padding: 40px;
+}
+
+.special {
+    color:red;
+}
